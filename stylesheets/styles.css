@@ -5,13 +5,13 @@ body {
 }
 .picture {
   position: absolute;
-  left: 660px;
+  left: 650px;
   top: 110px;
   display: block;
   margin: 0 auto;
   border-radius: 0px;
-  height: 100px;
-  width: 60px;
+  height: 90px;
+  width: 72px;
   border-style: solid;
   border-width: 3 px;
   border-color: rgb(96, 130, 182);
@@ -48,7 +48,7 @@ img.desaturate{
 .bottom-right {
   position: absolute;;
   top: 224px;
-  left: 710px;
+  left: 700px;
   font-size: 12px;
   display: none;
 }
