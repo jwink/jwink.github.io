@@ -65,14 +65,14 @@ $(function () {
   $('.picture').hide();
   $('.list-info').hide();
   $('.blurb').hide();
-  pathIt();
-  setTimeout(function() {
-    $('.picture').fadeIn(1000);
-    $('.title').fadeIn(1000);
-    $('.bottom-right').fadeIn(1000);
-    $('.list-info').fadeIn(1000);
-    $('.blurb').fadeIn(1000);
-  }, 3000);
+//  pathIt();
+//  setTimeout(function() {
+//    $('.picture').fadeIn(1000);
+//    $('.title').fadeIn(1000);
+//    $('.bottom-right').fadeIn(1000);
+//    $('.list-info').fadeIn(1000);
+//    $('.blurb').fadeIn(1000);
+//  }, 3000);
   setTimeout(function() {
     noPath();
   }, 4000);
