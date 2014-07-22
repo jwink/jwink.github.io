@@ -65,7 +65,7 @@ $(function () {
   $('.picture').hide();
   $('.list-info').hide();
   $('.blurb').hide();
-//  pathIt();
+  pathIt();
 //  setTimeout(function() {
 //    $('.picture').fadeIn(1000);
 //    $('.title').fadeIn(1000);
